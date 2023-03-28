@@ -21,7 +21,7 @@ const Outcome = () => {
                         <div className="absolute right-0 w-[315px] h-[315px] bg-secondary rounded-full shadow-xl blur-[250px]"></div>
 
                         <h2 className='font-bold text-4xl'>The Outcome for Participants of the Program</h2>
-                        <p className='mt-4 text-md text-slate-600'>As a graduate of this program, you will own valuable products such as Full-Stack App Templates, AR and VR Experiences, and APIs that are marketed globally by the Panaverse DAO. You will also have the opportunity to offer your services at a rate of $50 per hour, providing a path to financial stability while contributing to the growth of Pakistan's software exports.</p>
+                        <p className='mt-4 text-md text-slate-600'>As a graduate of this program, you will own valuable products such as Full-Stack App Templates, AR and VR Experiences, and APIs that are marketed globally by the Panaverse DAO. You will also have the opportunity to offer your services at a rate of $50 per hour, providing a path to financial stability while contributing to the growth of Pakistan&apos;s software exports.</p>
 
                         <div className='mt-6 grid grid-cols-2 gap-x-2 gap-y-4'>
                             {
